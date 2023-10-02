@@ -47,5 +47,5 @@ I'm a software developer with a main focus on full-stack web development. Curren
 You can reach out to me through the following channels:
 
 - Email: [f.borisjuk@hangerthem.com](mailto:f.borisjuk@hangerthem.com)
-- Twitter: [@hangertehm](https://twitter.com/HangerThem)
+- Twitter: [@hangerthem](https://twitter.com/HangerThem)
 - LinkedIn: [František Borisjuk](https://www.linkedin.com/in/franti%C5%A1ek-borisjuk-022686225/)
