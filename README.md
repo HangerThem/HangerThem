@@ -48,4 +48,4 @@ You can reach out to me through the following channels:
 
 - Email: [f.borisjuk@hangerthem.com](mailto:f.borisjuk@hangerthem.com)
 - Twitter: [@hangerthem](https://twitter.com/HangerThem)
-- LinkedIn: [František Borisjuk](https://www.linkedin.com/in/franti%C5%A1ek-borisjuk-022686225/)
+- LinkedIn: [František Borisjuk](https://www.linkedin.com/in/franti%C5%A1ek-borisjuk/)
