@@ -3,14 +3,14 @@
 Software engineer with a strong focus on building systems that are **robust, understandable, and practical**.  
 I enjoy working close to the architecture level, questioning defaults, and designing solutions that age well.
 
-I’m not interested in hype-driven development — I care about **clarity, correctness, and control**.
+I'm not interested in hype-driven development. I care about **clarity, correctness, and control**.
 
 ## 🧠 Philosophy
 
 - Prefer simple systems over clever ones  
 - Understand the whole before optimizing the parts  
 - Tooling should serve the developer, not the other way around  
-- If it can’t be reasoned about, it’s probably wrong  
+- If it can't be reasoned about, it's probably wrong  
 
 ## 🛠 Tech Stack
 
